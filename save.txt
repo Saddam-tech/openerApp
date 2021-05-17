@@ -1,0 +1,1 @@
+/Applications/AppCleaner.app,/Applications/KakaoTalk.app,/Applications/Figma.app,/Applications/Malwarebytes.app,
